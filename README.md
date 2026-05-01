@@ -19,8 +19,7 @@ Actualmente estoy construyendo bases sólidas en programación y explorando cóm
 ## 🛠️ Technologies I'm Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge\&logo=css3)
+
 
 ---
 
@@ -39,14 +38,6 @@ Actualmente estoy construyendo bases sólidas en programación y explorando cóm
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO\&layout=compact\&theme=dark)
-
-
----
 
 ✨ *"Aprendiendo hoy para construir soluciones mañana"*
 
