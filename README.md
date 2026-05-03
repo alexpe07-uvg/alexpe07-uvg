@@ -16,9 +16,11 @@ Actualmente estoy construyendo bases sólidas en programación y explorando cóm
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🚀 Technologies I'm interested in
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+* Aprender desarrollo web (frontend y backend)
+* Crear proyectos en donde experimente con interfaces de usuario que aporten valor a mi comunidad
+* Mejorar mis habilidades en Python
 
 
 ---
