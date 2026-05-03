@@ -23,15 +23,6 @@ Actualmente estoy construyendo bases sólidas en programación y explorando cóm
 
 ---
 
-## 🚀 Goals
-
-* Aprender desarrollo web (frontend y backend)
-* Crear proyectos que aporten valor a mi comunidad
-* Participar en proyectos colaborativos
-* Mejorar mis habilidades en Python
-
----
-
 ## 📌 Projects
 
 🔹 Próximamente… (trabajando en mis primeros proyectos 👨‍💻)
