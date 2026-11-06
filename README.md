@@ -20,14 +20,14 @@ Actualmente estoy construyendo bases sólidas en programación y explorando cóm
 
 * Aprender desarrollo web (frontend y backend)
 * Crear proyectos en donde experimente con interfaces de usuario que aporten valor a mi comunidad
-* Mejorar mis habilidades en Python
+* Mejorar mis habilidades en Java y otros lenguajes de programación
 
 
 ---
 
 ## 📌 Projects
 
-🔹 Próximamente… (trabajando en mis primeros proyectos 👨‍💻)
+🔹 Próximamente… UVG MATCHES! Mi primer proyecto en grupo como asignación de la universidad
 
 ---
 
